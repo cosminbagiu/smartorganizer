@@ -1,0 +1,68 @@
+@charset "utf-8";
+
+
+
+/* CSS Document */
+
+
+
+* {
+
+    padding: 0;
+
+    margin: 0;
+
+}
+
+
+
+body {
+
+    background: #fff;
+
+    text-align: center;
+
+}
+
+
+
+#body {
+
+    margin-top: 100px;
+
+}
+
+
+
+#body table {
+
+    margin: 0 auto;
+
+    position: relative;
+
+    bottom: 50px;
+
+}
+
+
+
+table td,
+
+th {
+
+    padding: 20px;
+
+    border: solid #9fa8b0 1px;
+
+    border-collapse: collapse;
+
+}
+.form-style-8{
+	width: 800px;
+	padding: 30px;
+	margin: 20px auto;
+	box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+	-moz-box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+	-webkit-box-shadow:  0px 0px 15px rgba(0, 0, 0, 0.22);
+
+}
